@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">698726724893-26f56upiqc6aqm1ickjfhifropcb3l6b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">698726724893</string>
+    <string name="google_api_key" translatable="false">AIzaSyDkb3hozbN6417vB4yXid5QnoHNTL9-XaY</string>
+    <string name="google_app_id" translatable="false">1:698726724893:android:61a752ddc8dc71ade15df4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDkb3hozbN6417vB4yXid5QnoHNTL9-XaY</string>
+    <string name="google_storage_bucket" translatable="false">groceriesondemand-4e8b3.appspot.com</string>
+    <string name="project_id" translatable="false">groceriesondemand-4e8b3</string>
+</resources>
